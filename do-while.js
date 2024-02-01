@@ -16,3 +16,11 @@ do{
 while(n<10){
 
 }
+let n = 20;
+do{
+    console.log(n)
+    n++
+}
+while(n<10){
+
+}
