@@ -1,0 +1,25 @@
+SUMMARY OF MODULE 18 
+
+1. for of loop 
+2. while loop 
+    infinite loop
+   how do sum using while loop
+   how to find even and odds numbers
+   how to do sum of even and odds numbers 
+   how to do sum using while loop (with if condition and increment or iteration)
+   how to multiplication table using while loop 
+   break
+   continue
+
+   
+3. for loop
+     infinite loop
+   how do sum using 
+   how to find even numbers and odds numbers 
+   how to do sum even and odds numbers 
+   how to do sum using for loop (with if condition and increment of iteration)
+   how to multiplication table using for loop 
+   break
+   continue
+
+   
